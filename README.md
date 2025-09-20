@@ -25,7 +25,7 @@ project-folder/
 │── index.html   # Main HTML file
 │── style.css    # Styles for the UI (includes dark & light mode)
 │── script.js    # JavaScript logic for interactivity
-│── README.md    # Project documentation
+
 
 📸 Screenshots
 
