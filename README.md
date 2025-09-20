@@ -46,7 +46,7 @@ Enjoy a fully responsive experience on any device.
 
 Clone the repository:
 
-git clone https://github.com/hamou592/dashboard-landing-page.git
+git clone [https://github.com/hamou592/dashboard-landing-page.git](https://github.com/hamou592/Dashboard.git)
 
 
 Open index.html in your browser.
@@ -65,4 +65,4 @@ Improve accessibility features (ARIA, keyboard navigation).
 
 👨‍💻 Author
 
-Hamou Nasreddine – GitHub Profile
+Hamou Nasreddine – [GitHub Profile](https://github.com/hamou592)
