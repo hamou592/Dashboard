@@ -20,6 +20,7 @@ The project features a clean and user-friendly interface, supports both dark and
 Frontend: HTML, CSS, JavaScript
 
 📂 Project Structure
+
 project-folder/
 │── index.html   # Main HTML file
 │── style.css    # Styles for the UI (includes dark & light mode)
@@ -28,7 +29,8 @@ project-folder/
 
 📸 Screenshots
 
-(Add screenshots showing both dark and light modes, and responsiveness on mobile/tablet)
+<img width="1878" height="890" alt="image" src="https://github.com/user-attachments/assets/91d6c45a-f247-44de-8d91-1d2dcd0ecf80" />
+
 
 ⚙️ How It Works
 
